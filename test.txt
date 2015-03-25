@@ -1,4 +1,4 @@
-new test about stash in a new environment
+new test about the  stash in  new environment
 I commit the file to romote responsity.
 
 
