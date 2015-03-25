@@ -1,7 +1,4 @@
-new line in test.txt
-I am a monke!y 
-test.txt<F2>
-test file
-test pull on different file
+new test about stash in a new environment
+I commit the file to romote responsity.
 
 
