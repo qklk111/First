@@ -1,5 +1,5 @@
-
-I am a monkey 
+new line in test.txt
+I am a monke!y 
 test.txt<F2>
 test file
 test pull on different file
